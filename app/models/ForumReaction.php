@@ -77,4 +77,5 @@ class ForumReaction {
         $stmt->execute();
         return $stmt->fetch();
     }
+
 }
